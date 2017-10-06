@@ -8,6 +8,9 @@ For the vast majority of women, public spaces aren’t necessarily safe. Over 99
 
 CatCallOut is a civic tech initiative to make our streets safer. We are a team of three developers, committed to building a mobile app that aggregates data about incidents of street harassment, and displays this data on a map. This way, everyone can see street harassment danger zones - and plan routes to avoid these areas.
 
+## My Contribution
+I was responsible for getting the Google Maps API to play nicely with React Native. I also led the routing of our application with react-native-router-flux, and took point on UI and design work.
+
 ## MVP Functionality
 
 CatCallOut is built on a decoupled architecture featuring:
